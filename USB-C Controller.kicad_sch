@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ef3a0921-f290-4384-a860-d8af04c323fd)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "VCC" (shape output) (at 194.31 95.25 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1f7bbec7-ab86-4a72-853b-a067e8111c5d)
+  )
+  (hierarchical_label "GND" (shape output) (at 194.31 107.95 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 58007b4e-27aa-40a9-ae58-153a42298958)
+  )
+)
