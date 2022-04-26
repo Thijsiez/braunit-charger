@@ -225,8 +225,8 @@
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/b3ffa052-ff89-49ea-a23b-4c9fa528b33e"
       (reference "D2") (unit 1) (value "SS56B") (footprint "Diode_SMD:D_SMB")
     )
-    (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/dea7c032-2a02-4799-999c-b85b467a6576"
-      (reference "D3") (unit 1) (value "LED_RAGB") (footprint "")
+    (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/4f02a351-9568-48f2-b04f-076667160b2f"
+      (reference "D3") (unit 1) (value "MHS110RGBCT") (footprint "BRAUNIT Charger:LED_RGB_Meihua_MHS110RGBCT")
     )
     (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/e46e6751-247b-4dd4-8beb-902163207668"
       (reference "D4") (unit 1) (value "SS56B") (footprint "Diode_SMD:D_SMB")
@@ -234,8 +234,8 @@
     (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/b46fd59b-d980-4e81-961e-66caead0767c"
       (reference "D5") (unit 1) (value "SS56B") (footprint "Diode_SMD:D_SMB")
     )
-    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/6ea71dce-3443-43e9-b586-9a6b46e885f2"
-      (reference "D6") (unit 1) (value "LED_RAGB") (footprint "")
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/cac24a99-a94d-4e91-8eb5-2f5c3cffd889"
+      (reference "D6") (unit 1) (value "MHS110RGBCT") (footprint "BRAUNIT Charger:LED_RGB_Meihua_MHS110RGBCT")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/c26c255b-63aa-45c6-aa93-37832edf0301"
       (reference "J1") (unit 1) (value "BRAUNIT") (footprint "BRAUNIT Charger:Blade_1x04_P2.5mm_Vertical_BRAUNIT_Loose")
