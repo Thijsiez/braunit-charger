@@ -166,6 +166,15 @@
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/aa764b62-e50f-483e-b858-a3b8aa9541da"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
     )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/0bb5cd34-d493-45c4-917f-8c4bd795b455"
+      (reference "#PWR0135") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/b52a894a-2bf5-4f23-8119-d216d38562fe"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9b64bdde-614f-48a8-af9a-410c135af729/c98adc4e-1900-42fa-ab77-c1249b31bc2e"
+      (reference "#PWR0137") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/9c4ca713-efc0-464c-a186-be30f9d06ebd"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -259,6 +268,9 @@
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/75fac02a-6385-406e-bdfe-19beb20c5378"
       (reference "D13") (unit 1) (value "BAT60A") (footprint "Diode_SMD:D_SOD-323")
     )
+    (path "/9b64bdde-614f-48a8-af9a-410c135af729/98b40b2f-2aac-4c8c-a11a-63973d7b7773"
+      (reference "D14") (unit 1) (value "MHS110RGBCT") (footprint "BRAUNIT Charger:LED_RGB_Meihua_MHS110RGBCT")
+    )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/c26c255b-63aa-45c6-aa93-37832edf0301"
       (reference "J1") (unit 1) (value "BRAUNIT") (footprint "BRAUNIT Charger:Blade_1x04_P2.5mm_Vertical_BRAUNIT_Loose")
     )
@@ -297,6 +309,9 @@
     )
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/a7763c49-661e-4165-a130-c278df9fad64"
       (reference "Q5") (unit 1) (value "AO4459") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/b3d7b2a2-22f1-4349-895b-112bacee12e8"
+      (reference "Q6") (unit 1) (value "2N7002") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/16173b27-1c6b-42e2-8ac3-2bad8b6f5b16"
       (reference "R1") (unit 1) (value "2k7") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -342,6 +357,15 @@
     )
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/c28727a8-02d0-46fe-a169-fc00f4a0ce1e"
       (reference "R15") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/9b64bdde-614f-48a8-af9a-410c135af729/f3c21525-24a6-4611-9ef2-ee23f6a94824"
+      (reference "R16") (unit 1) (value "2k7") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/9b64bdde-614f-48a8-af9a-410c135af729/04ab7f81-200e-48ab-92c7-a0aa58cbc91c"
+      (reference "R17") (unit 1) (value "2k7") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/6710360f-e14d-432d-b7f7-46f8dfe947aa"
+      (reference "R18") (unit 1) (value "470k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/02297bbb-ab4c-4b32-b01f-a1a47b5f8881"
       (reference "Rcs1") (unit 1) (value "0R1") (footprint "BRAUNIT Charger:R_Shunt_2010_5025Metric")
