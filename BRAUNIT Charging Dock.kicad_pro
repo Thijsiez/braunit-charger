@@ -342,8 +342,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "BRAUNIT Charger"
+    ],
+    "pinned_symbol_libs": [
+      "BRAUNIT Charger"
+    ]
   },
   "meta": {
     "filename": "BRAUNIT Charging Dock.kicad_pro",

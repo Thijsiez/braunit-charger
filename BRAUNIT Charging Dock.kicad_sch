@@ -284,10 +284,10 @@
       (reference "J4") (unit 1) (value "BM04B-SRSS-TB") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/c2edbe55-ed11-4e1b-b28d-2bb3bb3eda31"
-      (reference "L1") (unit 1) (value "22uH") (footprint "Inductor_SMD:L_10.4x10.4_H4.8")
+      (reference "L1") (unit 1) (value "22uH") (footprint "BRAUNIT Charger:L_Sunltech_SLO0630H")
     )
     (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/a2fed518-7e1a-4ee3-b922-d16c488d750a"
-      (reference "L2") (unit 1) (value "22uH") (footprint "Inductor_SMD:L_10.4x10.4_H4.8")
+      (reference "L2") (unit 1) (value "22uH") (footprint "BRAUNIT Charger:L_Sunltech_SLO0630H")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/3862ae54-0889-40d0-a519-841ecb949575"
       (reference "NT1") (unit 1) (value "NetTie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
