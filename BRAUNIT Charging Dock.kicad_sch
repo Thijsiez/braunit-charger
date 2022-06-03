@@ -175,6 +175,9 @@
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/c98adc4e-1900-42fa-ab77-c1249b31bc2e"
       (reference "#PWR0137") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/4006f202-1362-4670-adf0-4e5892206b65"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/9c4ca713-efc0-464c-a186-be30f9d06ebd"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -282,6 +285,9 @@
     )
     (path "/9b64bdde-614f-48a8-af9a-410c135af729/d5072b80-c0f6-4781-8b90-b78f7eb213da"
       (reference "J4") (unit 1) (value "BM04B-SRSS-TB") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
+    )
+    (path "/7a6d3a70-dd46-4bb3-a764-a6a3c3bbb5ac/ac78dc28-0cde-41a9-8cfb-3d86dc4039d4"
+      (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/b2909144-61aa-40b6-b4ee-631beaa2767a/c2edbe55-ed11-4e1b-b28d-2bb3bb3eda31"
       (reference "L1") (unit 1) (value "22uH") (footprint "BRAUNIT Charger:L_Sunltech_SLO0630H")
